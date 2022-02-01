@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Felix Hahn.
-- 👀 I’m interested in Humhub.
-- 🌱 I’m currently learning how to create an own theme for Humhub.
+- 👀 I’m interested in Humhub (and Wordpress).
+- 🌱 I’m currently learning how to create a child theme module for Humhub.
 - 📫 How to reach me: info@hahn-felix.de
