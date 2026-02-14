@@ -4,7 +4,7 @@ I am developping modules for HumHub like
 - the free [Dark Mode](https://marketplace.humhub.com/module/dark-mode/description) module with more than 1700 installations and
 - the [SEO](https://marketplace.humhub.com/module/seo/description) module.
 
-🌱 My first published repository is a [child theme](https://github.com/felixhahnweilheim/humhub-themes-orange) for Humhub.
+🌱 My first published repository was a [child theme](https://github.com/felixhahnweilheim/humhub-themes-orange) for Humhub. But with the latest update you might not need a custom theme anymore. You can now set the most important colors in the administration interface. Alternatively I'd recommend the Clean Theme.
 
 📫 Contact: info@felixwebdesign.de
 
