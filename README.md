@@ -1,7 +1,7 @@
-👋 Hi, I’m Felix Hahn,
+we👋 Hi, I’m Felix Hahn,
 
 I am developping modules for HumHub like
-- the free [Dark Mode](https://marketplace.humhub.com/module/dark-mode/description) module with more than 700 installations and
+- the free [Dark Mode](https://marketplace.humhub.com/module/dark-mode/description) module with more than 1700 installations and
 - the [SEO](https://marketplace.humhub.com/module/seo/description) module.
 
 🌱 My first published repository is a [child theme](https://github.com/felixhahnweilheim/humhub-themes-orange) for Humhub.
