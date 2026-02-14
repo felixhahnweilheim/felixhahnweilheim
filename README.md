@@ -1,4 +1,4 @@
-we👋 Hi, I’m Felix Hahn,
+👋 Hi, I’m Felix Hahn,
 
 I am developping modules for HumHub like
 - the free [Dark Mode](https://marketplace.humhub.com/module/dark-mode/description) module with more than 1700 installations and
